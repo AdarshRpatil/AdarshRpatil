@@ -24,6 +24,8 @@
 <div align="center"> 
     <a href = "mailto:pedro.sales.adarshrpatil02@gmail.com" target ="blank"> <img src="https://user-images.githubusercontent.com/84305637/201382070-00f1f9ba-c37d-4b0a-9270-730e1d646b91.png" alt="gmail" width="80" height="80"></a>
     <a href = "https://www.linkedin.com/in/adarshpatil02/" target ="blank"> <img src="https://user-images.githubusercontent.com/84305637/201383216-78611d85-9771-42ff-8a9d-e5dd1d5655af.png" alt="linkedin" width="80" height="80"></a>
+    <a href = "https://instagram.com/adarshpatil02" target ="blank"> <img src="https://user-images.githubusercontent.com/84305637/200871156-ce91fea1-4c78-4666-8a36-02963b357ce5.png" alt="instagram" width="80" height="80"></a>
+
     
  
 </div>
