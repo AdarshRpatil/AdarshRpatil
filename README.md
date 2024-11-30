@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **MERN STACK**
  
- 🌱 I’m currently learning **redux toolkit and AWS**
+ 🌱 I’m currently learning **Spring boot**
 
 💬 Ask me about **Node.js, React, MongoDB...**
 
